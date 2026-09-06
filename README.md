@@ -23,6 +23,8 @@ corroborates the bat-speed-as-dominant-predictor finding from
 unsupervised method and a different data source (bat-tracking leaderboards
 vs. individual Statcast pulls).
 
+![Swing DNA archetype clusters](outputs/swing_dna_clusters.png)
+
 ## Data Limitations (read before using or publishing)
 
 1. **Bat-tracking data is not wrapped by `pybaseball`** (confirmed as of

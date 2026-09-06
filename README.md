@@ -25,6 +25,32 @@ vs. individual Statcast pulls).
 
 ![Swing DNA archetype clusters](outputs/swing_dna_clusters.png)
 
+### The archetypes in action — 2025 season (true top 5 by wOBA per archetype)
+
+**Power over Contact:**
+
+| Player | Bat Speed | Squared-Up% | wOBA |
+|---|---|---|---|
+| Nick Kurtz | 78.2 mph | 26.1% | .419 |
+| Shohei Ohtani | 74.6 mph | 36.5% | .418 |
+| George Springer | 73.0 mph | 30.9% | .408 |
+| Ronald Acuña Jr. | 75.9 mph | 27.5% | .403 |
+| Cal Raleigh | 75.0 mph | 23.5% | .392 |
+
+**Contact-Control:**
+
+| Player | Bat Speed | Squared-Up% | wOBA |
+|---|---|---|---|
+| Jonathan Aranda | 70.2 mph | 35.4% | .381 |
+| Freddie Freeman | 70.2 mph | 33.1% | .370 |
+| Geraldo Perdomo | 67.2 mph | 38.6% | .370 |
+| Michael Busch | 68.7 mph | 38.8% | .369 |
+| Max Muncy | 71.4 mph | 35.2% | .366 |
+
+**League extremes (2025):** Junior Caminero has the fastest average bat
+speed in MLB (79.6 mph). Mookie Betts has the best squared-up rate in MLB
+(47.0%) — the two ends of the tradeoff this project measures.
+
 ## Data Limitations (read before using or publishing)
 
 1. **Bat-tracking data is not wrapped by `pybaseball`** (confirmed as of
